@@ -1,0 +1,27 @@
+le 31/05/2016 à 12:26:44 j'ai écrit le prospect de nom DINGO dans la table TempClient 
+le 31/05/2016 à 13:37:41 j'ai écrit dans le fichier H_CLIENTS les données suivantes :
+6	DINGO	3 RUE DE LA HAYE	67300	SCHILTIGHEIM	DINGO		0		02	02	2
+le 31/05/2016 à 17:01:01 j'ai écrit la visite d'ID 99ZZ*17680*3 dans la table TempVisite (flagué M), le commercial 9922 a émis la demande
+le 01/06/2016 à 10:57:45 j'ai écrit dans le fichier H_ANALYSE_ACT les données suivantes :
+M	99ZZ*17694*1	23	17685	17685	0	1	C	1	0	0	0	1	0	0	0	0		0	0	1	0	0	0	0			3	2	RV			9922
+
+le 01/06/2016 à 10:57:45 j'ai écrit dans le fichier H_ANALYSE_ACT les données suivantes :
+M	99ZZ*17694*2	23	17685	17685	0	1	C	1	0	0	0	1	0	0	0	0		0	0	1	0	0	0	0			3	2	RV			9922
+
+le 01/06/2016 à 10:57:45 j'ai écrit dans le fichier H_ANALYSE_ACT les données suivantes :
+M	99ZZ*17685*1	22	17685	17685	0	1	C	1	0	0	0	1	0	0	0	0		0	0	1	0	0	0	0			3	2	RV			9922
+
+le 01/06/2016 à 10:57:45 j'ai écrit dans le fichier H_ANALYSE_ACT les données suivantes :
+M	99ZZ*17694*3	23	17685	17685	0	1	C	1	0	0	0	0	0	1	0	0		0	0	1	0	0	0	0			1	1	SOLO		MIAM	9922
+
+le 01/06/2016 à 10:57:46 j'ai écrit dans le fichier H_ANALYSE_ACT les données suivantes :
+M	99ZZ*17694*3	23	17685	17685	0	1	C	1	0	0	0	0	0	1	0	0		0	0	1	0	0	0	0			1	1	SOLO		SLURP	9922
+
+le 01/06/2016 à 10:57:46 j'ai écrit dans le fichier H_ANALYSE_ACT les données suivantes :
+S	99ZZ*17685*1	22	17685	17685	0	1	C	1	0	0	0	1	0	0	0	0		0	0	1	0	0	0	0			3	2	RV			9922
+
+le 01/06/2016 à 11:06:11 j'ai écrit dans le fichier H_ANALYSE_ACT les données suivantes :
+S	99ZZ*17680*1	21	17685	17685	0	1	P	1	0	0	0	1	0	0	0	0		0	0	1	0	0	0	0			1	1	SOLO			9922
+
+le 01/06/2016 à 11:06:11 j'ai écrit dans le fichier H_CLIENTS les données suivantes :
+2	WINNIX	666 RUE DE SATAN	66666	ENFER	WINNIX		0		666	666	666

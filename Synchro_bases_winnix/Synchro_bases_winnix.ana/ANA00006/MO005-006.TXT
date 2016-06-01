@@ -1,0 +1,13 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Client		FCNX+	Connexion à '10.32.1.23'	
+CommentaireActivite		FCNX+	Connexion à '10.32.1.23'	
+Commercial		FCNX+	Connexion à '10.32.1.23'	
+Connexion		FCNX+	Connexion à '10.32.1.23'	
+Marque		FCNX+	Connexion à '10.32.1.23'	
+Parametres		FCNX+	Connexion à '10.32.1.23'	
+Secteur		FCNX+	Connexion à '10.32.1.23'	
+TempClient		FCNX+	Connexion à '10.32.1.23'	
+TempVisite		FCNX+	Connexion à '10.32.1.23'	
+TypeVisite		FCNX+	Connexion à '10.32.1.23'	
+Visite		FCNX+	Connexion à '10.32.1.23'	
+Connexion à '10.32.1.23'		CNX+		

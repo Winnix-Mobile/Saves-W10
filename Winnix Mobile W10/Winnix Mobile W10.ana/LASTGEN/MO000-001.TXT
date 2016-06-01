@@ -12,7 +12,7 @@ TypeVisite		NFI		nouveau fichier
 Visite		NFI		nouveau fichier
 Secteur		NWL	Secteur (IDSecteur) et Client (IDSecteur)	Nouvelle liaison entre les fichiers Secteur (IDSecteur) et Client (IDSecteur)
 Commercial		NWL	Commercial (CodeCommercial) et Secteur (CodeCommercial)	Nouvelle liaison entre les fichiers Commercial (CodeCommercial) et Secteur (CodeCommercial)
-Marque		NWL	Marque (IDMarque) et Visite (IDMarque)	Nouvelle liaison entre les fichiers Marque (IDMarque) et Visite (IDMarque)
-Commercial		NWL	Commercial (CodeCommercial) et Visite (CodeCommercial)	Nouvelle liaison entre les fichiers Commercial (CodeCommercial) et Visite (CodeCommercial)
 Client		NWL	Client (IDClient) et Visite (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Visite (IDClient)
+Commercial		NWL	Commercial (CodeCommercial) et Visite (CodeCommercial)	Nouvelle liaison entre les fichiers Commercial (CodeCommercial) et Visite (CodeCommercial)
+Marque		NWL	Marque (IDMarque) et Visite (IDMarque)	Nouvelle liaison entre les fichiers Marque (IDMarque) et Visite (IDMarque)
 MaConnexion		CNX+		

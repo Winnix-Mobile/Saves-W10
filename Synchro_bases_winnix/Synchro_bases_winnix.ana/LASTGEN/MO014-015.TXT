@@ -1,0 +1,5 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+Client		TAR	780	nouvelle taille enregistrement : 780
+Client	IDUniverse	RUB+		IDUniverse est une nouvelle rubrique
+TempClient		TAR	780	nouvelle taille enregistrement : 780
+TempClient	IDUniverse	RUB+		IDUniverse est une nouvelle rubrique

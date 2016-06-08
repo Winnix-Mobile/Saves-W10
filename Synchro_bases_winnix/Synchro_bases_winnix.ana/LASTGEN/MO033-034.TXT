@@ -1,0 +1,3 @@
+//MO033-034.TXT ANA00033 TO ANA00034
+TempAutreActivite		TAR	431	nouvelle taille enregistrement : 431
+TempAutreActivite	test	RUB-		la rubrique test est supprimée

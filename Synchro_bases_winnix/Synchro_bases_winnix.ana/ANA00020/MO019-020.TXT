@@ -1,0 +1,8 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+AutreActivite		NNF*	CommentaireActivite	nouveau nom AutreActivite
+AutreActivite		TAR	170	nouvelle taille enregistrement : 170
+AutreActivite	IDAutreActivite	NNR	IDCommentaireActivite	ATTENTION : la clé IDCommentaireActivite a pour nouveau nom IDAutreActivite
+AutreActivite	NomActivite	RUB+		NomActivite est une nouvelle rubrique
+AutreActivite	Presence	RUB+		Presence est une nouvelle rubrique
+AutreActivite	Duree	RUB+		Duree est une nouvelle rubrique
+AutreActivite		FRN		

@@ -1,0 +1,13 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+TempVisite		TAR	467	nouvelle taille enregistrement : 467
+TempVisite	clientProspect	RUB-		la rubrique clientProspect est supprimée
+TempVisite	Presence	RUB-		la rubrique Presence est supprimée
+TempVisite	CodeDuree	RUB-		la rubrique CodeDuree est supprimée
+TempVisite	AutreActivite	RUB-		la rubrique AutreActivite est supprimée
+TempVisite	ListeDesProduits	RUB-		la rubrique ListeDesProduits est supprimée
+Visite		TAR	462	nouvelle taille enregistrement : 462
+Visite	clientProspect	RUB-		la rubrique clientProspect est supprimée
+Visite	Presence	RUB-		la rubrique Presence est supprimée
+Visite	CodeDuree	RUB-		la rubrique CodeDuree est supprimée
+Visite	AutreActivite	RUB-		la rubrique AutreActivite est supprimée
+Visite	ListeDesProduits	RUB-		la rubrique ListeDesProduits est supprimée

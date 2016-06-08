@@ -1,0 +1,5 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+AutreActivite		TAR	376	nouvelle taille enregistrement : 376
+AutreActivite	CommActivite	TAI+	206	la rubrique CommActivite a comme nouvelle taille 257 au lieu de 51
+TempAutreActivite		TAR	427	nouvelle taille enregistrement : 427
+TempAutreActivite	CommActivite	TAI+	206	la rubrique CommActivite a comme nouvelle taille 257 au lieu de 51

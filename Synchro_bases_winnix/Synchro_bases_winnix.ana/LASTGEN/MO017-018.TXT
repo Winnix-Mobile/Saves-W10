@@ -1,0 +1,8 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Marque		TAR	217	nouvelle taille enregistrement : 217
+Marque		IDE-*		fichier sans identifiant
+Marque	IDMarque	CNW	Chaîne$Identifiant automatique (8 octets)	la rubrique IDMarque a pour nouveau type Chaîne
+TempVisite		TAR	785	nouvelle taille enregistrement : 785
+TempVisite	IDMarque	CNW	Chaîne$Entier sur 8 octets	la rubrique IDMarque a pour nouveau type Chaîne
+Visite		TAR	779	nouvelle taille enregistrement : 779
+Visite	IDMarque	CNW	Chaîne$Entier sur 8 octets	la rubrique IDMarque a pour nouveau type Chaîne
